@@ -1,0 +1,48 @@
+/* YHack Project, CSS for styling*/ 
+
+html {
+  background: url("http://3.bp.blogspot.com/-Y_rF2ATNSFo/VQbEfxUEg0I/AAAAAAAAEoA/HMgRUTFuNhM/s1600/1324511%2BGreen%2BNature%2BForest%2BMountain%2BAnd%2BAmazing%2BPurple%2BSky%2BAnd%2BWhite%2BCloud%2BMountain%2BHD%2BWallpaperz%2Bqtytya.jpeg") no-repeat center center fixed;
+  -webkit-background-size: cover;
+  -moz-background-size: cover;
+  -o-background-size: cover;
+  background-size: cover;
+}
+
+body
+{
+  font-family: "Helvetica Neue", Arial, Verdana;
+  text-align: center;
+  color: white;
+  font-size: 20px;
+}
+
+h1
+{
+  color: white;
+  font-size: 80px;
+}
+
+a
+{
+  text-align: center;
+  color: white;
+  padding: 10px;
+  margin: 0px;
+  display: block;
+  text-decoration: none;
+
+}
+
+#box
+{
+  background-color: rgba(40, 25, 25, .4);
+}
+
+a:hover
+{
+  position: relative;
+  left: 5px;
+  bottom: 5px;
+}
+
+/*className*/
